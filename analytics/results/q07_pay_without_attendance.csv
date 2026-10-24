@@ -1,0 +1,60 @@
+emp_id,full_name,month,plant_name,dept_id,dept_name,separation_date,earning_amount,attendance_days,present_days
+E10399,Fatima Chaudhry,2026-04-01,SITE Plant,D14,Dyeing,,85925.00,30,0
+E10491,Sajid Javed,2026-04-01,Faisalabad Plant,D22,Packing,,77400.00,30,0
+E10564,Danish Hashmi,2026-04-01,Faisalabad Plant,D23,Maintenance,,64225.00,30,0
+E10907,Sohail Baig,2026-04-01,Faisalabad Plant,D21,Cutting,,73525.00,30,0
+E11064,Sajid Memon,2026-04-01,Faisalabad Plant,D25,Warehouse,,81275.00,30,0
+E11089,Sajid Javed,2026-04-01,Korangi Plant,D09,Weaving,,75075.00,30,0
+E10397,Owais Mirza,2026-05-01,Korangi Plant,D08,Spinning,2026-05-01,2122.00,1,0
+E10399,Fatima Chaudhry,2026-05-01,SITE Plant,D14,Dyeing,,85925.00,31,0
+E10471,Umair Baloch,2026-05-01,Head Office,D01,Human Resources,2026-04-23,132000.00,0,0
+E10491,Sajid Javed,2026-05-01,Faisalabad Plant,D22,Packing,,77400.00,31,0
+E10564,Danish Hashmi,2026-05-01,Faisalabad Plant,D23,Maintenance,,64225.00,31,0
+E10907,Sohail Baig,2026-05-01,Faisalabad Plant,D21,Cutting,,73525.00,31,0
+E11064,Sajid Memon,2026-05-01,Faisalabad Plant,D25,Warehouse,,81275.00,31,0
+E11089,Sajid Javed,2026-05-01,Korangi Plant,D09,Weaving,,75075.00,31,0
+E10295,Sohail Hussain,2026-06-01,SITE Plant,D15,Finishing,2026-05-11,63450.00,0,0
+E10327,Bilal Baloch,2026-06-01,Faisalabad Plant,D20,Stitching,2026-06-01,2115.00,1,0
+E10332,Amna Awan,2026-06-01,Faisalabad Plant,D25,Warehouse,2026-05-14,80500.00,0,0
+E10399,Fatima Chaudhry,2026-06-01,SITE Plant,D14,Dyeing,,85925.00,30,0
+E10471,Umair Baloch,2026-06-01,Head Office,D01,Human Resources,2026-04-23,132000.00,0,0
+E10491,Sajid Javed,2026-06-01,Faisalabad Plant,D22,Packing,,77400.00,30,0
+E10564,Danish Hashmi,2026-06-01,Faisalabad Plant,D23,Maintenance,,64225.00,30,0
+E10907,Sohail Baig,2026-06-01,Faisalabad Plant,D21,Cutting,,73525.00,30,0
+E10989,Tariq Jatoi,2026-06-01,Faisalabad Plant,D22,Packing,2026-05-18,73525.00,0,0
+E11064,Sajid Memon,2026-06-01,Faisalabad Plant,D25,Warehouse,,81275.00,30,0
+E11089,Sajid Javed,2026-06-01,Korangi Plant,D09,Weaving,,75075.00,30,0
+E11222,Naveed Ansari,2026-06-01,SITE Plant,D14,Dyeing,2026-05-16,104525.00,0,0
+E10295,Sohail Hussain,2026-07-01,SITE Plant,D15,Finishing,2026-05-11,63450.00,0,0
+E10332,Amna Awan,2026-07-01,Faisalabad Plant,D25,Warehouse,2026-05-14,80500.00,0,0
+E10399,Fatima Chaudhry,2026-07-01,SITE Plant,D14,Dyeing,,94450.00,31,0
+E10471,Umair Baloch,2026-07-01,Head Office,D01,Human Resources,2026-04-23,132000.00,0,0
+E10491,Sajid Javed,2026-07-01,Faisalabad Plant,D22,Packing,,85150.00,31,0
+E10564,Danish Hashmi,2026-07-01,Faisalabad Plant,D23,Maintenance,,70425.00,31,0
+E10907,Sohail Baig,2026-07-01,Faisalabad Plant,D21,Cutting,,80500.00,31,0
+E10989,Tariq Jatoi,2026-07-01,Faisalabad Plant,D22,Packing,2026-05-18,73525.00,0,0
+E11064,Sajid Memon,2026-07-01,Faisalabad Plant,D25,Warehouse,,89025.00,31,0
+E11089,Sajid Javed,2026-07-01,Korangi Plant,D09,Weaving,,82050.00,31,0
+E11222,Naveed Ansari,2026-07-01,SITE Plant,D14,Dyeing,2026-05-16,104525.00,0,0
+E10295,Sohail Hussain,2026-08-01,SITE Plant,D15,Finishing,2026-05-11,63450.00,0,0
+E10332,Amna Awan,2026-08-01,Faisalabad Plant,D25,Warehouse,2026-05-14,80500.00,0,0
+E10399,Fatima Chaudhry,2026-08-01,SITE Plant,D14,Dyeing,,94450.00,31,0
+E10471,Umair Baloch,2026-08-01,Head Office,D01,Human Resources,2026-04-23,132000.00,0,0
+E10491,Sajid Javed,2026-08-01,Faisalabad Plant,D22,Packing,,85150.00,31,0
+E10564,Danish Hashmi,2026-08-01,Faisalabad Plant,D23,Maintenance,,70425.00,31,0
+E10907,Sohail Baig,2026-08-01,Faisalabad Plant,D21,Cutting,,80500.00,31,0
+E10989,Tariq Jatoi,2026-08-01,Faisalabad Plant,D22,Packing,2026-05-18,73525.00,0,0
+E11064,Sajid Memon,2026-08-01,Faisalabad Plant,D25,Warehouse,,89025.00,31,0
+E11089,Sajid Javed,2026-08-01,Korangi Plant,D09,Weaving,,82050.00,31,0
+E11222,Naveed Ansari,2026-08-01,SITE Plant,D14,Dyeing,2026-05-16,104525.00,0,0
+E10295,Sohail Hussain,2026-09-01,SITE Plant,D15,Finishing,2026-05-11,63450.00,0,0
+E10332,Amna Awan,2026-09-01,Faisalabad Plant,D25,Warehouse,2026-05-14,80500.00,0,0
+E10399,Fatima Chaudhry,2026-09-01,SITE Plant,D14,Dyeing,,94450.00,30,0
+E10471,Umair Baloch,2026-09-01,Head Office,D01,Human Resources,2026-04-23,132000.00,0,0
+E10491,Sajid Javed,2026-09-01,Faisalabad Plant,D22,Packing,,85150.00,30,0
+E10564,Danish Hashmi,2026-09-01,Faisalabad Plant,D23,Maintenance,,70425.00,30,0
+E10907,Sohail Baig,2026-09-01,Faisalabad Plant,D21,Cutting,,80500.00,30,0
+E10989,Tariq Jatoi,2026-09-01,Faisalabad Plant,D22,Packing,2026-05-18,73525.00,0,0
+E11064,Sajid Memon,2026-09-01,Faisalabad Plant,D25,Warehouse,,89025.00,30,0
+E11089,Sajid Javed,2026-09-01,Korangi Plant,D09,Weaving,,82050.00,30,0
+E11222,Naveed Ansari,2026-09-01,SITE Plant,D14,Dyeing,2026-05-16,104525.00,0,0

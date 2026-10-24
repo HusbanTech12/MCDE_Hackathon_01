@@ -1,0 +1,11 @@
+late_rank,emp_id,full_name,plant_name,dept_id,dept_name,late_days
+1,E10580,Usman Gill,Faisalabad Plant,D21,Cutting,54
+2,E10800,Arif Rizvi,SITE Plant,D14,Dyeing,51
+3,E10059,Owais Baig,SITE Plant,D17,Quality Control,50
+4,E10982,Adnan Akhtar,Korangi Plant,D13,Production Planning,49
+5,E10026,Nadeem Soomro,SITE Plant,D16,Maintenance,47
+5,E10058,Sohail Chaudhry,SITE Plant,D14,Dyeing,47
+5,E10454,Raheel Khan,Faisalabad Plant,D23,Maintenance,47
+5,E10603,Tariq Hussain,SITE Plant,D19,Utilities,47
+5,E10664,Arif Bhatti,SITE Plant,D14,Dyeing,47
+5,E11026,Umair Ansari,SITE Plant,D19,Utilities,47

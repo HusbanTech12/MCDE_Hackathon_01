@@ -1,0 +1,24 @@
+month,plant_name,dept_id,dept_name,computed_hours,approved_hours,paid_hours,excess_hours,excess_rate
+2026-04-01,SITE Plant,D14,Dyeing,342.5,559.5,559.5,217.0,0.6336
+2026-04-01,SITE Plant,D15,Finishing,298.0,491.0,491.0,193.0,0.6477
+2026-04-01,SITE Plant,D16,Maintenance,83.5,132.5,132.5,49.0,0.5868
+2026-04-01,SITE Plant,D17,Quality Control,91.0,149.5,149.5,58.5,0.6429
+2026-04-01,SITE Plant,D18,Warehouse,70.0,124.0,124.0,54.0,0.7714
+2026-04-01,SITE Plant,D19,Utilities,85.0,147.5,147.5,62.5,0.7353
+2026-05-01,Faisalabad Plant,D20,Stitching,819.5,1008.0,1008.0,188.5,0.2300
+2026-05-01,SITE Plant,D14,Dyeing,400.0,563.0,563.0,163.0,0.4075
+2026-05-01,SITE Plant,D15,Finishing,266.5,393.5,393.5,127.0,0.4765
+2026-05-01,SITE Plant,D16,Maintenance,115.0,178.5,178.5,63.5,0.5522
+2026-05-01,SITE Plant,D17,Quality Control,82.5,113.5,113.5,31.0,0.3758
+2026-05-01,SITE Plant,D18,Warehouse,111.5,147.0,147.0,35.5,0.3184
+2026-05-01,SITE Plant,D19,Utilities,86.0,124.0,124.0,38.0,0.4419
+2026-06-01,Faisalabad Plant,D20,Stitching,708.0,1122.0,1122.0,414.0,0.5847
+2026-06-01,SITE Plant,D14,Dyeing,312.5,482.0,482.0,169.5,0.5424
+2026-06-01,SITE Plant,D15,Finishing,372.5,517.0,517.0,144.5,0.3879
+2026-06-01,SITE Plant,D16,Maintenance,137.5,180.0,180.0,42.5,0.3091
+2026-06-01,SITE Plant,D17,Quality Control,76.0,111.5,111.5,35.5,0.4671
+2026-06-01,SITE Plant,D18,Warehouse,100.0,148.5,148.5,48.5,0.4850
+2026-06-01,SITE Plant,D19,Utilities,121.5,180.5,180.5,59.0,0.4856
+2026-07-01,Faisalabad Plant,D20,Stitching,783.0,1440.5,1440.5,657.5,0.8397
+2026-08-01,Faisalabad Plant,D20,Stitching,874.5,1548.5,1548.5,674.0,0.7707
+2026-09-01,Faisalabad Plant,D20,Stitching,729.5,1778.5,1778.5,1049.0,1.4380
